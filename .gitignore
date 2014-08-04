@@ -1,0 +1,8 @@
+*.egg
+*.egg-info
+*.pyc
+*.sw?
+.coverage
+.venv
+/MANIFEST
+/dist
