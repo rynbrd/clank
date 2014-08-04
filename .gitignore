@@ -4,5 +4,7 @@
 *.sw?
 .coverage
 .venv
+/AUTHORS
+/ChangeLog
 /MANIFEST
 /dist
